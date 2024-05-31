@@ -4,15 +4,13 @@
 семафори, да се предложи минимално хардверско решение
 (како име на компонента). 
 
-![Screenshot (1)](https://github.com/Ristova123/Zadaca3-8085/blob/main/Logika%20na%20semafori.png)
 
+![Screenshot (1)](https://github.com/Ristova123/Zadaca3-8085/blob/main/Diagram.png)s
 
 
 **Resenie:**
 
-
-
-![Screenshot (2)](https://github.com/Ristova123/Zadaca3-8085/blob/main/Diagram.png)
+![Screenshot (2)](https://github.com/Ristova123/Zadaca3-8085/blob/main/Logika%20na%20semafori.png)
 
 
 ```
